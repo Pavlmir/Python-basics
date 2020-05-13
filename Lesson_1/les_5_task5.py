@@ -16,4 +16,3 @@ if revenues >= costs:
 else:
     loss = costs - revenues
     print(f"Фирма отработала с убытком = {loss}")
-
