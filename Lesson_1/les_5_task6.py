@@ -13,3 +13,15 @@
 #
 # Ответ: на 6-й день спортсмен достиг результата — не менее 3 км.
 
+a = int(input("Результат в первый день (км):"))
+b = int(input("Общий результат спортсмена (км):"))
+
+step = a
+days = []
+while step <= b:
+    days.append(step)
+    step = step + step * 0.1
+    if step > b:
+        days.append(step)
+
+print(f"Номер дня = {len(days)}")
