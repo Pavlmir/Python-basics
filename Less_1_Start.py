@@ -101,5 +101,6 @@ def lesson_6():
 
     print(f"Номер дня = {len(days)}")
 
+
 if __name__ == "__main__":
     lesson_1()
