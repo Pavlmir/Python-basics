@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,45 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5af51d0b-a8b7-4362-8739-bb2f33d00e53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less_3_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less_1_Start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Less_1_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/les_2_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2_types_and_operations/les_2_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/les_2_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2_types_and_operations/les_2_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/les_2_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2_types_and_operations/les_2_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/les_2_task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2_types_and_operations/les_2_task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/les_2_task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2_types_and_operations/les_2_task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/les_2_task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2_types_and_operations/les_2_task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/les_4_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_useful_tools/les_4_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/les_4_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_useful_tools/les_4_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/les_4_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_useful_tools/les_4_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/les_4_task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_useful_tools/les_4_task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/les_4_task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_useful_tools/les_4_task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4/les_4_task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_useful_tools/les_4_task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/count lines.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/count lines.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/counting.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/counting.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/counting_new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/counting_new.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/data_user.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/data_user.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/firm.json" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/firm.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/firm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/firm.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/les_5_task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/les_5_task7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/list employees.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/list employees.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/set of numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/set of numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_5/subject.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_working_with_files/subject.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/les_7_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7_OOP_advance/les_7_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/les_7_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7_OOP_advance/les_7_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_7/les_7_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_7_OOP_advance/les_7_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/les_8_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8_OOP_additions/les_8_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/les_8_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8_OOP_additions/les_8_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/les_8_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8_OOP_additions/les_8_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/les_8_task4-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8_OOP_additions/les_8_task4-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/les_8_task7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8_OOP_additions/les_8_task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +48,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Алгоритмы и структуры данных на Python" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -92,6 +58,54 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\pavlm\PycharmProjects\Python-basics\Lesson_3_functions" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="python-basics-geekbr" type="PythonConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-basics-geekbr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pavlm\python-interview-geekbr\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-basics-geekbr" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-basics-geekbr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pavlm\python-interview-geekbr\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -129,9 +143,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Клонирование проекта" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604690326431">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606511589296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1606511589296" />
+    <state x="632" y="145" key="FileChooserDialogImpl" timestamp="1606511341198">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604690326431" />
+    <state x="632" y="145" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1606511341198" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606511557862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1606511557862" />
   </component>
 </project>
